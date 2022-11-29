@@ -1,0 +1,5 @@
+.idea
+.terraform
+tfplan
+.terraform.lock.hcl
+aws-sample-infra-resources-terraform.iml
